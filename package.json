@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jane Doe",
+	"author": "Lucifer",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,7 +9,7 @@
 		"start": "node server.js"
 	},
 	"engines": {
-		"node": "8.11.2"
+		"node": "v10.19.0"
 	},
 	"repository": {
 		"type": "git",
